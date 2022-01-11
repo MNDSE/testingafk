@@ -1,0 +1,81 @@
+body{
+    font-family: Atkinson Hyperlegibl;
+}
+
+.navbar-collapse{
+    justify-content: flex-end;
+}
+
+.card-title{
+    font-size: 3.5em;
+    font-weight: bold;
+    font-family: Atkinson Hyperlegibl;
+    color: white;
+}
+.card-text{
+    font-family: Atkinson Hyperlegibl;
+    font-size: 20px;
+    color: orange;
+    line-height: 2em;
+    
+}
+.card-title2{
+    font-size: 3.5em;
+    font-weight: bold;
+    font-family: Atkinson Hyperlegibl;
+    color:orange;
+}
+
+.card-text2{
+    color: whitesmoke;
+    font-family: Atkinson Hyperlegibl;
+    font-size: 20px;
+    line-height: 2em;
+}
+
+.card mt-4{
+    width: 50px;
+    height: 50px;
+}
+
+#im2{
+    width: 350px;
+    height: 450px;
+}
+
+#card2{
+    width: 150px;
+    margin-bottom: 1em;
+}
+
+.footerall{
+    background-color: whitesmoke;
+    padding: 1em;
+}
+
+.fa-twitter{
+    color: rgb(33, 177, 243);
+    font-size: 25px;
+    margin-left: 30px;
+    
+}
+.fa-instagram{
+    color: black;
+    font-size: 30px;
+    margin-left: 15px;
+}
+a{
+    color: none;
+    text-decoration: none;
+}
+.card-text3{
+    color: whitesmoke;
+    font-family: Atkinson Hyperlegibl;
+    font-size: 20px;
+    line-height: 2em;
+}
+#im3{
+    width: 400px;
+    height: 450px;
+
+}

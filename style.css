@@ -1,0 +1,150 @@
+body{
+    font-family: Atkinson Hyperlegible;
+    background-color: black;
+    
+}
+
+.imlogo{
+
+    width: 50px;
+    height: 50px;
+}
+
+.navbar-collapse{
+    justify-content: flex-end;
+}
+
+.bilboard1{
+    
+    margin-top: 3em;    
+    margin-left: -1em;
+    
+}
+
+
+
+.bilboardtext{
+    color: white;
+    
+    
+    
+}
+.bilspan1{
+    color: orange;
+    border-bottom:  2px solid orange;
+    
+}
+
+.bilboardh1{
+    font-size: 70px;
+    font-weight: bold;
+    margin-top: 2em;
+}
+
+.btn {
+    background-image: linear-gradient(45deg, #FF512F 0%, #F09819  51%, #FF512F  100%)
+   }
+   
+   .btn {
+    margin: 10px;
+    padding: 15px 30px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    border-radius: 10px;
+    display: block;
+    border: 0px;
+    font-weight: 400;
+    font-family:Atkinson Hyperlegible ;
+    box-shadow: 0px 0px 14px -7px #f09819;
+   }
+   
+   .btn:hover {
+    background-position: right center;
+    /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+   }
+   
+   .btn:active {
+    transform: scale(0.95);
+   }
+   .btnlink{
+       text-decoration: none;
+   }
+  
+   .main1{
+       margin-top: 10em;
+       background-color: orange;
+   }
+
+   .img1{
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+.main1h2{
+    font-size: 4em;
+    font-weight: bold;
+    padding-top: 1em;
+    color: black;
+}
+.main2h2{
+    font-size: 4em;
+    font-weight: bold;
+    padding-top: 1em;
+    color: orange;
+
+}
+.main2{
+    background-color: black;
+
+}
+.figurepara1{
+    
+    float: none;
+    font-size: 25px;
+    text-align: center;
+    color: rgb(219, 219, 212);
+    padding-top: 2em;
+    margin-right: 6em;
+    font-family:Atkinson Hyperlegible ;
+    
+}
+
+.figurepara2{
+    color: rgb(219, 219, 212);
+    font-size: 25px;
+    text-align: center;
+    justify-content: right;
+    padding-top: 2em;
+    margin-left: 3em;
+    font-family:Atkinson Hyperlegible ;
+    line-height: 3em;
+    line-break: auto;
+}
+.footerall{
+    background-color: whitesmoke;
+    padding: 1em;
+    font-size: 15px;
+}
+.fa-twitter{
+    color: rgb(33, 177, 243);
+    font-size: 25px;
+    margin-left: 30px;
+    
+}
+.fa-instagram{
+    color: black;
+    font-size: 30px;
+    margin-left: 15px;
+}
+
+a{
+    color: none;
+    text-decoration: none;
+}

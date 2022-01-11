@@ -1,0 +1,77 @@
+.navbar-collapse{
+    justify-content: flex-end;
+}
+body{
+    background-color: black;
+    font-family: Atkinson Hyperlegibl;
+}
+
+.card{
+    background-color: black;
+}
+.btn-primary{
+    color:black;
+    background-color: orange;
+    border: none;
+}
+.containertitle{
+    color: rgb(212, 127, 30);
+    font-size: 3.5em;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-family: Atkinson Hyperlegibl;
+    margin-top: 1.5em;
+    
+}
+.bilboard2{
+    background-color: black;
+}
+/*animating the bilboard */
+#row1{
+    animation: transform;
+    animation-duration: 6s;
+    animation-iteration-count:initial;
+    animation-play-state: running;
+}
+/*@keyframes transform {
+    from{margin-left: 0%;}
+    to{margin-left: 10%;}
+} */
+
+@keyframes transform { /* large , small*/
+    20%{transform: scale(0,1);}
+}
+.btn-primary:active{
+    background-color: orange;
+    color: orange;
+    border-color: none;
+}
+.btn-primary:hover{
+    background-color: orange;
+    border-color: none
+    ;
+}
+a:active{
+    color: orange;
+    border-color: none;
+}
+.footerall{
+    background-color: whitesmoke;
+    padding: 1em;
+}
+
+.fa-twitter{
+    color: rgb(33, 177, 243);
+    font-size: 25px;
+    margin-left: 30px;
+    
+}
+.fa-instagram{
+    color: black;
+    font-size: 30px;
+    margin-left: 15px;
+}
+a{
+    color: none;
+    text-decoration: none;
+}
